@@ -1,0 +1,23 @@
+[
+  {
+    "image_path": "images/image6.jpg",
+    "text": "A beach with palm trees and clear blue water.",
+    "question": "What type of landscape is shown?",
+    "answer": "beach",
+    "caption": "A tropical beach with swaying palm trees and crystal clear turquoise water."
+  },
+  {
+    "image_path": "images/image7.jpg",
+    "text": "A cat sleeping on a windowsill.",
+    "question": "What is the cat doing?",
+    "answer": "sleeping",
+    "caption": "A gray cat curled up and sleeping peacefully on a sunny windowsill."
+  },
+  {
+    "image_path": "images/image8.jpg",
+    "text": "A snowy mountain peak against a blue sky.",
+    "question": "What season is depicted in the image?",
+    "answer": "winter",
+    "caption": "A majestic snow-covered mountain peak rising against a clear blue sky."
+  }
+] 

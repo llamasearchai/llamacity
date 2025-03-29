@@ -1,0 +1,37 @@
+[
+  {
+    "image_path": "images/image1.jpg",
+    "text": "A beautiful sunset over the mountains.",
+    "question": "What is shown in this image?",
+    "answer": "sunset",
+    "caption": "A beautiful sunset over the mountains with orange and purple skies."
+  },
+  {
+    "image_path": "images/image2.jpg",
+    "text": "A dog playing in the park.",
+    "question": "What animal is in the image?",
+    "answer": "dog",
+    "caption": "A happy dog running through a green park on a sunny day."
+  },
+  {
+    "image_path": "images/image3.jpg",
+    "text": "A busy city street with many people.",
+    "question": "Is this a rural or urban scene?",
+    "answer": "urban",
+    "caption": "A busy city street with many people walking and cars driving by tall buildings."
+  },
+  {
+    "image_path": "images/image4.jpg",
+    "text": "A plate of delicious food on a table.",
+    "question": "What is on the plate?",
+    "answer": "food",
+    "caption": "A plate of delicious pasta with tomato sauce and basil on a wooden table."
+  },
+  {
+    "image_path": "images/image5.jpg",
+    "text": "A person reading a book in a cozy chair.",
+    "question": "What is the person doing?",
+    "answer": "reading",
+    "caption": "A person sitting in a comfortable armchair reading a book next to a window."
+  }
+] 
